@@ -4,6 +4,8 @@ Acompanhamento de Roteiro do Curso [Javascript - Programando na linguagem da Web
 
 Projeto interessante de Javascript puro. O clássico cálculo de IMC indo além da lógica no console.
 
+![AparecidaNutricao](https://user-images.githubusercontent.com/79273930/155303375-ce97be7b-c1d6-4338-b226-dfc7834574a8.png)
+
 Exercício de boas práticas, organização do código e responsabilidades bem definidas e aproveitadas, event listening e manipulação do DOM.
 
 Começamos criando função para calcular o IMC dos pacientes constantes no código HTML, preenchendo a última coluna da tabela.
