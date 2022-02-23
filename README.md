@@ -25,3 +25,6 @@ Depois adicionamos a funcionalidade de remover pacientes, com clique duplo, com 
 
 Ao final, inserimos a função de filtragem por nomes na tabela usando `RegExp()`
 
+Por favor, não hesite em comentar com qualquer dica e sugestão.
+
+### Obrigado pela visita!
